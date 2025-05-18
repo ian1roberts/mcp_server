@@ -21,7 +21,7 @@ pip install mcp-server
 
 ```bash
 # If installed with poetry
-poetry run mcp_server
+poetry run mcp-server
 
 # Otherwise
 python -m mcp_server.server
